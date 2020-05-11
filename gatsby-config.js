@@ -6,6 +6,7 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: "/MattK-WD09.github.io",
   plugins: [
     {
       resolve: `gatsby-plugin-typography`,
